@@ -4,9 +4,9 @@ SHAH is the official token of the ShahCoin ecosystem.
 
 ## Token Info
 
-- Token Name: ShahCoin  
+- Token Name: ShahToken 
 - Symbol: SHAH  
-- Total Supply: 21,000,000 SHAH  
+- Total Supply: 20,000,000 SHAH  
 - Network: Ethereum Mainnet  
 - Contract Address: [0x6E0cFA42F797E316ff147A21f7F1189cd610ede8](https://etherscan.io/token/0x6E0cFA42F797E316ff147A21f7F1189cd610ede8)  
 - Developer Wallet: [0xF53Bedb68675e3B8221a8bf351C2892Bae89Aef4](https://etherscan.io/address/0xF53Bedb68675e3B8221a8bf351C2892Bae89Aef4)
