@@ -80,12 +80,13 @@ This repository will include:
 
 ⸻
 
-📞 Official Links
+
+🌐 Official Links
  • Website: https://shahtoken.xyz
- • GitHub: (repo link)
- • Etherscan: https://etherscan.io/token/0x6E0cFA42F797E316ff147A21f7F1189cd610ede8
- • Twitter/X:
- • Telegram:
+ • Email: shah@shahtoken.xyz
+ • GitHub: https://github.com/SHAHCoinvip/Shahtoken.git
+ • Twitter/X: https://x.com/shahtoken
+ • Telegram: https://t.me/SHAHTOKENS
  • NFT Contract: 0x3A7E5c533A02cF3628E3247E699E8e52A007E49f
 Developer Wallet: 0xF53Bedb68675e3B8221a8bf351C2892Bae89Aef4
 ⸻
