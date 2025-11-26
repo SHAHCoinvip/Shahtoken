@@ -12,7 +12,7 @@ Symbol SHAH
 Standard ERC-20
 Network Ethereum Mainnet
 Contract Address 0x6E0cFA42F797E316ff147A21f7F1189cd610ede8
-Total Supply 21,000,000 SHAH
+Total Supply 20,000,000 SHAH
 Pair Address 0xD0EBF34d7AD44eC87Acf2F5A03A36eFDf1770a65
 
 
@@ -33,7 +33,7 @@ Trust Wallet Long-Term Lock 18,000,000 SHAH Locked
 Farming / Rewards 1,000,000 SHAH Active
 Liquidity Pool Added to Uniswap V2 Locked
 
-Total supply: 21,000,000 SHAH (fixed, no minting)
+Total supply: 20,000,000 SHAH (fixed, no minting)
 
 ⸻
 
@@ -86,7 +86,7 @@ This repository will include:
  • Email: shah@shahtoken.xyz
  • GitHub: https://github.com/SHAHCoinvip/Shahtoken.git
  • Twitter/X: https://x.com/shahtoken
- • Telegram: https://t.me/SHAHTOKENS
+ • Telegram: [https://t.me/SHAHTOKENS](https://t.me/ShahToken1)
  • NFT Contract: 0x3A7E5c533A02cF3628E3247E699E8e52A007E49f
 Developer Wallet: 0xF53Bedb68675e3B8221a8bf351C2892Bae89Aef4
 ⸻
